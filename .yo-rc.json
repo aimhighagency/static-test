@@ -1,0 +1,14 @@
+{
+  "generator-lb": {
+    "name": "static test",
+    "features": [
+      "includeModernizr",
+      "includejQuery"
+    ],
+    "jQuery": "includejQuery2",
+    "sassCompilator": "rubySass",
+    "ES6": false,
+    "multiLanguage": false,
+    "testFramework": false
+  }
+}

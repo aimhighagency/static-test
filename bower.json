@@ -1,0 +1,7 @@
+{
+  "name": "static-test",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
